@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="textview">TextView</string>
+    <string name="i_am_a_android_developer">I am a Android developer!</string>
+    <string name="button">Button</string>
+    <string name="edtName">Enter your name...</string>
+</resources>
